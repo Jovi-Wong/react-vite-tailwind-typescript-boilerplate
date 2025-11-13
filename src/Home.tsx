@@ -3,7 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 
 export default function Home() {
-    const [count, setCount] = useState(0);
+  const [count, setCount] = useState(0);
 
   return (
     <div className="max-w-screen min-h-screen bg-gray-50 flex flex-col items-center justify-center p-6">
